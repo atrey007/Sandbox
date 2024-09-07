@@ -1,0 +1,7 @@
+INFO:root:File created: C:\Users\shash\OneDrive\Desktop\TEST FOLDER\New folder
+INFO:root:File modified: C:\Users\shash\OneDrive\Desktop\TEST FOLDER\2
+INFO:root:File modified: C:\Users\shash\OneDrive\Desktop\TEST FOLDER\2
+INFO:root:File created: C:\Users\shash\OneDrive\Desktop\TEST FOLDER\New folder
+INFO:root:File modified: C:\Users\shash\OneDrive\Desktop\TEST FOLDER\3
+INFO:root:File modified: C:\Users\shash\OneDrive\Desktop\TEST FOLDER\3
+INFO:root:File deleted: C:\Users\shash\OneDrive\Desktop\TEST FOLDER\3
